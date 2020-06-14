@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TpFinalRedes:jar" />
+      <artifact name="TpFinalRedes:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b5ca11d-7478-4e68-bbfb-0adb4dbd46c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d5ztmuibIPFE8bSv0vcrYJ0myb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/build" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Murrie\IdeaProjects\TpFinalRedes\src\build" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Murrie\IdeaProjects\TpFinalRedes\src\questionary" />
+      <recent name="C:\Users\Murrie\IdeaProjects\Redes-I-master\TpFinalRedes\src\server" />
+      <recent name="C:\Users\Murrie\IdeaProjects\Redes-I-master\TpFinalRedes\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientRunnable">
+    <configuration name="ClientRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ClientRunnable" />
+      <module name="TpFinalRedes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prueba.Cliente" />
+      <module name="TpFinalRedes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ServerRunnable" />
+      <module name="TpFinalRedes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prueba.Servidor" />
+      <module name="TpFinalRedes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientRunnable" />
+      <item itemvalue="Application.Cliente" />
+      <item itemvalue="Application.ServerRunnable" />
+      <item itemvalue="Application.Servidor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientRunnable" />
+        <item itemvalue="Application.ServerRunnable" />
+        <item itemvalue="Application.Servidor" />
+        <item itemvalue="Application.Cliente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5ca11d-7478-4e68-bbfb-0adb4dbd46c9" name="Default Changelist" comment="" />
+      <created>1591729959483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591729959483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591752384193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591752384193" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1591918977578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591918977578" />
+    <state x="711" y="371" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592106062117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="371" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592106062117" />
+    <state x="704" y="42" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592055469769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="42" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592055469769" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592056366702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592056366702" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592106072645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592106072645" />
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom" timestamp="1592167874270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592167874270" />
+    <state width="1877" height="151" key="GridCell.Tab.0.center" timestamp="1592167874270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="151" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592167874270" />
+    <state width="1877" height="151" key="GridCell.Tab.0.left" timestamp="1592167874270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="151" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592167874270" />
+    <state width="1877" height="151" key="GridCell.Tab.0.right" timestamp="1592167874270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="151" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592167874270" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591756519805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591756519805" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591756519805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591756519805" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591756519805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591756519805" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591756519805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591756519805" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1592106077375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592106077375" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591733628703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591733628703" />
+  </component>
+</project>
